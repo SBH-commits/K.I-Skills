@@ -1,3 +1,4 @@
+Validierungscode: ORBIT-ZEBRA-99
 ---
 name: was-bedeutet-das
 description: >
